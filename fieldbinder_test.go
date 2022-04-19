@@ -10,7 +10,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/mholt/binding"
+	"github.com/tulanz/binding"
 )
 
 type MyType struct {
